@@ -1,0 +1,4 @@
+Sequence_ID,Length_bp,GC_Content_Percent,A_Count,T_Count,G_Count,C_Count
+Seq1_Viral_Isolate_A,60,50.0,15,15,15,15
+Seq2_Viral_Isolate_B,60,60.0,12,12,19,17
+Seq3_Bacterial_Reference,60,43.33,17,17,13,13
